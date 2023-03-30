@@ -33,3 +33,11 @@ object programacionConObjetos {
 * [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
 
 * [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+
+
+
+Presentacion:
+I 've started my journey 3 years ago teaching Scratch in an elementary school library. I realized that I needed to deepen my coding skills, so I decided to dive into JS. 
+Now, as a Full Stack Developer, I'm excited to continue growing my skills and knowledge in the field, and to contribute to meaningful projects that make a positive impact.
+
+
