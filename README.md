@@ -39,5 +39,11 @@ object programacionConObjetos {
 Presentacion:
 I 've started my journey 3 years ago teaching Scratch in an elementary school library. I realized that I needed to deepen my coding skills, so I decided to dive into JS. 
 Now, as a Full Stack Developer, I'm excited to continue growing my skills and knowledge in the field, and to contribute to meaningful projects that make a positive impact.
+<p align="center">
+<img alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=Cin-1&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
+</p>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cin-1&theme=radical&include_all_commits=true&show_icons=true" />
+</p>
 
 
